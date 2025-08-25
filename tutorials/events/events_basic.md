@@ -1,4 +1,10 @@
-<!-- omit from toc -->
+---
+layout: page
+permalink: /tutorial/realm/realm_events.html
+title: Realm Events
+intro: A deomonstration of Realm's event handling.
+---
+
 # Realm Event Tutorial
 
 Realm is a fully asynchronous, event-based runtime, and events form the

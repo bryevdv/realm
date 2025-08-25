@@ -1,4 +1,10 @@
-<!-- omit from toc -->
+---
+layout: page
+permalink: /tutorial/realm/hello_realm.html
+title: Realm Hello World
+intro: Basic setup and usages with a "hello world" example.
+---
+
 # Hello world
 
 The tutorial begins with a simple “hello world” example that showcases the basics. You can access the source code, the Makefile and CMakeList.txt for building and running the application, in the `tutorial/realm` directory of the repository. By going through these tutorial programs in detail, we will demonstrate how to effectively use the Realm C++ runtime API.

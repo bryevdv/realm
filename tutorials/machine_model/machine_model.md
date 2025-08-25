@@ -1,4 +1,10 @@
-<!-- omit from toc -->
+---
+layout: page
+permalink: /tutorial/realm/machine_model.html
+title: Realm Machine Model
+intro: How to query and condition code based on Realm's machine model.
+---
+
 # Realm Machine Model Tutorial
 
 This example illustrates how to query the machine model from Realm.
